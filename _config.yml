@@ -1,19 +1,19 @@
 
 # Site settings
-title: 爱吃土豆 Blog
-SEOTitle: 爱吃土豆的博客
+title: HK Blog
+SEOTitle: 黄可人的博客
 header-img: img/home-bg.jpg
 email: wsd_j2@126.com
-description: "一个小学生 | 王思达 | 希望能做出一点东西"
-keyword: "王思达, 爱吃土豆, 王思达的博客, 王思达 Blog, 博客, 互联网, 深度学习, 图像处理"
-url: "https://aichitudou.github.io"              
+description: "黄可人| 小白 | 希望能有所积累"
+keyword: "黄可人, 黄可人的博客, 黄可人 Blog, "
+url: "https://Hkaren78.github.io"              
 baseurl: ""                            # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-github_username:    aichitudou
+github_username:    Hkaren78
 
 
 # Build settings
@@ -52,7 +52,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "提高自己的工程能力"
+sidebar-about-description: "坚持！"
 sidebar-avatar: /img/avatar-tudou.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
