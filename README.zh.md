@@ -1,12 +1,3 @@
-# Hux blog 模板
-
-### [我的博客在这里](http://Hkaren78.github.io)
-
-
-
-## 各版本特性
-
-##### New Feature (V1.5.2)
 
 * 当你fork了我的仓库之后，还要删掉里面的关于我的文档是不是感到略烦躁呢？**Boilerplate** 模板将帮助你快速开始，方便合并与更新。
 * `-apple-system`被添加到了字体规则里面了，这套字体格式能将iOS9默认的新字体**San Francisco**表现的非常漂亮。
@@ -227,6 +218,3 @@ There are a number of tasks it performs like minification of the JavaScript, com
 2. 感谢[@BrucZhaoR](https://github.com/BruceZhaoR)的中文翻译 
 
 3. 感谢 Jekyll、Github Pages 和 Bootstrap!
-
-
-
