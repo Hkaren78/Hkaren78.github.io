@@ -43,7 +43,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: aichitudou
+disqus_username: HK 
 
 # Netease setttings
 netease_comment: false
@@ -52,7 +52,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "坚持！"
+sidebar-about-description: "坚持成习惯"
 sidebar-avatar: /img/avatar-tudou.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
