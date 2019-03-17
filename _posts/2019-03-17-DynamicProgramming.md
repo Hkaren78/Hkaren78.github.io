@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "动态规划——Dynamic programming"
+title:      "Dynamic programming（动态规划）"
 subtitle:   ""
 date:       2019-03-17
 author:     "HK"
