@@ -2,7 +2,7 @@
 layout:     post
 title:      "动态规划——Dynamic programming"
 subtitle:   ""
-date:       2019-03-15
+date:       2019-03-17
 author:     "HK"
 header-img: "img/math.jpg"
 catalog: true
