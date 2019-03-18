@@ -68,9 +68,8 @@ int main()
 ```
 ### 求定积分
 
-
+> [蒙特卡罗求定积分](https://cosx.org/2010/03/monte-carlo-method-to-compute-integration)
 
 > 注意：使用蒙特卡罗方法解任何具体问题时，所使用的随机数额个数总是有限的，只要所用随机数的个数不超过伪随机数序列出现循环现象时的长度即可。
 
-> [参考博文1](http://www.cnblogs.com/ECJTUACM-873284962/p/6892022.html)
-> [参考博文2](https://cosx.org/2010/03/monte-carlo-method-to-compute-integration)
+> [参考博文](http://www.cnblogs.com/ECJTUACM-873284962/p/6892022.html)
