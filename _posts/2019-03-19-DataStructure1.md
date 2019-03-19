@@ -16,7 +16,7 @@ tags:
 
 在链表中插入结点只需要修改指针（在第i个结点之前插入元素，修改的是第i-1个结点的指针）。
 
-![等待网络加载图片···](https://github.com/Hkaren78/Hkaren78.github.io/raw/master/img/in-post/DataStructure/zhizhen.jpg)
+![等待网络加载图片···](https://github.com/Hkaren78/Hkaren78.github.io/raw/master/img/in-post/DataStructure1/zhizhen.jpg)
 
 如图所示，在单链表中第i个节点之前进行插入的基本操作为：找到线性表中的第i-1个结点，然后先进行步骤①（e->next=ai）,再进行步骤②（ai-1->next=e）；反之，如若先将ai-1->next指针指向e,会覆盖掉ai中的数据,造成数据缺失。
 
