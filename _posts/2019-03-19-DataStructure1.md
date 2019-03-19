@@ -2,6 +2,7 @@
 layout:     post
 title:      "链表与指针"
 subtitle:   ""
+date:		2019-03-19
 author:     "HK"
 header-img: "img/DataStructure.jpg"
 catalog: true
