@@ -26,12 +26,20 @@ Status ListInsert_L(LinkList L,int i,ElemType e){
 	{
 	//P不为空，寻找到第i个结点
 		p=p->next;
+
 		++j;
+
 	}
-	if(!p||j>i-1) return ERROR;//i大于表长或者小于1，插入位置不存在
+
+	if(!p||j>i-1) return ERROR;//i大于表长或者小于1，插入位置不存在、
+
 	s=(LinkList)malloc(sizeof(LNode));//为插入的值分配新结点s
+
 	s->data=e;
+
 	s->next=p->next; p->next=s;//插入
+
 	return OK;
+	
 }//ListInsert_L
 ```
