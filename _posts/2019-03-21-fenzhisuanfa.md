@@ -50,6 +50,7 @@ tags:
 	5.do yi ← Divide-and-Conquer(Pi)  △ 递归解决Pi
 	6.T ← MERGE(y1,y2,...,yk)         △ 合并子问题
 	7.return(T)
+	
 - 其中|P|表示问题P的规模;n0为一阈值，表示当问题P的规模不超过n0时，问题已容易直接解出，不必再继续分解。
 - ADHOC(P)是该分治法中的基本子算法，用于直接解小规模的问题P。
 
