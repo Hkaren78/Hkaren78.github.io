@@ -1,4 +1,13 @@
-
+---
+layout:     post
+title:      "关于C++学习的一些忠告（转载）"
+subtitle:   "C++学习"
+date:       2019-04-18	
+author:     "HK"
+header-img: "img/C++Eg.png"
+tags:
+    - C++
+---
 
 1.把C++当成一门新的语言学习（和C没啥关系！真的。）； 
 
