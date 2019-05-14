@@ -12,7 +12,7 @@ tags:
 1.把C++当成一门新的语言学习（和C没啥关系！真的。）； 
 
 2.看《Thinking In C++》，不要看《C++变成死相》； 
-A
+
 3.看《The C++ Programming Language》和《Inside The C++ Object Model》,不要因为他们很难而我们自己是初学者所以就不看； 
 
 4.不要被VC、BCB、BC、MC、TC等词汇所迷惑——他们都是集成开发环境，而我们要学的是一门语言；
