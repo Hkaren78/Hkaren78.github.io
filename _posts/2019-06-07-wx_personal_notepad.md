@@ -23,11 +23,11 @@ tags:
 ## 代码部分(详情参考注释,注释统一用‘//’标识)
 ### 先附上需要的学习内容：
 
-[小程序·云开发视频教学](https://cloud.tencent.com/edu/learning/course-100018-1367)：自己看文档累的话可以看看视频教学，很基础
+[小程序·云开发视频教学](https://cloud.tencent.com/edu/learning/course-100018-1367)：自己看文档累的话可以看看视频教学，很基础。
 
-[vant weapp UI组件](https://youzan.github.io/vant-weapp/#/intro)：上面连接的视频有简单介绍这个的用法
+[vant weapp UI组件](https://youzan.github.io/vant-weapp/#/intro)：上面的视频链接有简单介绍这个的用法。
 
-[小程序·配置](https://developers.weixin.qq.com/miniprogram/dev/framework/)：对于本程序主要看基础组件和云开发部分
+[小程序·配置](https://developers.weixin.qq.com/miniprogram/dev/framework/)：对于本程序主要看基础组件和云开发部分。
 
 PS:那啥，wxss和json就不介绍了，不会啊，这两玩意挺恶心的。
 
