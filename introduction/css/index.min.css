@@ -1048,12 +1048,15 @@ body,html
 .W-mywork-right{margin:0 0 0 40px}
 .swiper-container2 .swiper-pagination-bullet
 {
-	background:#ccc;border-radius:0;width:25px;height:25px;text-align:center;line-height:25px;font-size:16px;color:white;
+	background:#ccc;border-radius:0;width:25px;
+	height:25px;text-align:center;
+	line-height:25px;font-size:16px;
+	color:white;
 	font-family:"微软雅黑";opacity:1
 }
 .swiper-container2 .swiper-pagination-bullet-active
 {
-	background:#a2c044
+	background:#BA6E6D
 }
 .W-mywork .swiper-container2 .swiper-pagination2
 {
