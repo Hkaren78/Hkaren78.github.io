@@ -1,7 +1,7 @@
 ﻿---
 layout:     post
-title:      "【CSP C++】2019-03-1小中大"
-subtitle:   ""
+title:      "【CSP C++】2019-03-1"
+subtitle:   "小中大"
 date:       2019-10-29
 author:     "HK"
 header-img: "img/post-bg-CSP.jpg"
