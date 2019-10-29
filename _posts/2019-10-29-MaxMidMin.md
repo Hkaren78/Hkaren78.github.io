@@ -1,12 +1,13 @@
 ﻿---
 layout:     post
-title:      "【CSP C++】2019-03-1 小中大"
+title:      "【CSP C++】2019-03-1小中大"
 subtitle:   ""
 date:       2019-10-29
 author:     "HK"
-header-img: "img/miniprogram.jpg"
+header-img: "img/post-bg-CSP.jpg"
 tags:
     - CSP
+    - C++
 ---
 
 > 这题虽然很简单，但一定要仔细啊~
