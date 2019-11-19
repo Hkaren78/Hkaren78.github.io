@@ -4,7 +4,7 @@ title:      "【Python 3】SyntaxError: (unicode error) 'utf-8' codec can't deco
 subtitle:   ""
 author:     "HK"
 date:		2019-11-19
-header-img: "img/post-bg-Error.png"
+header-img: "img/post-bg-Error.jpg"
 catalog: true
 tags:
     - 错误调试
