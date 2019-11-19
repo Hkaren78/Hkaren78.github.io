@@ -8,6 +8,7 @@ header-img: "img/post-bg-Error.png"
 catalog: true
 tags:
     - 错误调试
+    - Python
 ---
 
 >Django中views.py文件添加含中文代码后报错。
