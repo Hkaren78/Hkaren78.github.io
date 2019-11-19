@@ -8,6 +8,7 @@ header-img: "img/post-bg-Django.png"
 catalog: true
 tags:
     - 入门
+    - Django
 ---
 
 >Django是用Python写的一个Web框架。课设需要自己搭一个网站，用Python尝试下~
