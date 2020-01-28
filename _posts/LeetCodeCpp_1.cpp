@@ -1,0 +1,1 @@
+#include "stdafx.h"  // 即Standard Application Framework Extensions ，中文名为：标准应用程序框架的拓展，也称预编译头文件
