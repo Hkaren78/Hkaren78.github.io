@@ -49,14 +49,15 @@ tags:
 
 1.图片无法加载
 
-[img标签引用图片资源无法显示的问题]: https://blog.csdn.net/qq_38039015/article/details/82080037
-[相对路径]: https://blog.csdn.net/qq_34769573/article/details/80445681
+[img标签引用图片资源无法显示的问题](https://blog.csdn.net/qq_38039015/article/details/82080037)
+[相对路径](https://blog.csdn.net/qq_34769573/article/details/80445681)
 
 2.网页上汉字出现乱码
 
 在\<head>\</head>内添加\<meta charset="utf-8">
 
-<img src="C:\Users\14270\AppData\Roaming\Typora\typora-user-images\image-20200404230416467.png" alt="image-20200404230416467" style="zoom: 67%;" />
+![在这里插入图片描述](https://github.com/Hkaren78/Hkaren78.github.io/blob/master/img/in-post/HTMLlearning1/try1.png)
+
 
 ## HTML元素
 
